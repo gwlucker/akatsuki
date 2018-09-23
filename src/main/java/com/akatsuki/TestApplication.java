@@ -5,7 +5,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * A Spring Boot Application
- * @author w.gong
  */
 @SpringBootApplication
 public class TestApplication {

@@ -14,7 +14,6 @@ import java.util.Collection;
 /**
  * Controller of Book
  * @see Book
- * @author w.gong
  */
 @RestController
 @RequestMapping("/books")

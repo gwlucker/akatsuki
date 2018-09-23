@@ -14,7 +14,6 @@ import java.util.List;
  * An simple class for object access
  * register and manager for Book object
  * @see Book
- * @author w.gong
  */
 @Repository
 public class BookDao {
